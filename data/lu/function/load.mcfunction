@@ -5,6 +5,7 @@
 scoreboard objectives add lu.id dummy
 scoreboard objectives add lu.temp dummy
 scoreboard objectives add lu.uid dummy
+scoreboard objectives add lu.leave custom:leave_game
 
 scoreboard objectives add lu.num dummy
 scoreboard players set 256 lu.num 256
