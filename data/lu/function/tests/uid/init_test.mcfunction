@@ -1,0 +1,1 @@
+function lu:tests/uid/test with storage lu:uid

@@ -1,0 +1,2 @@
+execute in overworld run loot replace block 175300 -63 -112700 container.0 loot lu:head
+execute in overworld run data modify storage lu:util playername set from block 175300 -63 -112700 Items[0].components."minecraft:profile".name

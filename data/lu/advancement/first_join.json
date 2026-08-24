@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "": {
+            "trigger": "tick"
+        }
+    },
+    "rewards": {
+        "function": "lu:z/on_first_join"
+    }
+}
