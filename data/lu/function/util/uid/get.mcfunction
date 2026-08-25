@@ -1,3 +1,4 @@
+#> lu:util/uid/get
 data remove storage lu:uid UUID
 
 execute store result score 0 lu.uid store result score 1 lu.uid store result score 2 lu.uid store result score 3 lu.uid run data get entity @s UUID[0]

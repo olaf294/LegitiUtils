@@ -1,3 +1,4 @@
+#> lu:tests/uid/test
 $data modify storage lu:test tested_uuid set value uuid("$(UUID)")
 data modify storage lu:test entity_uuid set from entity @s UUID
 

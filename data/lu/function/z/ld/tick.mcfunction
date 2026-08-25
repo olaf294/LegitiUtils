@@ -1,3 +1,4 @@
+#> lu:z/ld/tick
 scoreboard players operation .players_prev lu.temp = .players lu.temp 
 execute store result score .players lu.temp if entity @a
 execute if score .players lu.temp < .players_prev lu.temp run function lu:z/ld/find_missing_player

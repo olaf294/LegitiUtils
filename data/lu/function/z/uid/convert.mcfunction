@@ -1,3 +1,4 @@
+#> lu:z/uid/convert
 $data modify storage lu:uid temp.0 set from storage lu:uid hex[$(0)]
 $data modify storage lu:uid temp.1 set from storage lu:uid hex[$(1)]
 $data modify storage lu:uid temp.2 set from storage lu:uid hex[$(2)]
