@@ -1,5 +1,6 @@
 {
     "values": [
-        "lu:load"
+        "lu:load",
+        "lu:http/load"
     ]
 }

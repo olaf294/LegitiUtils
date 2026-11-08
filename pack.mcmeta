@@ -4,10 +4,7 @@
       "text": "LegitiUtils — Your essential datapack for a better Legitimoose developer experience",
       "color": "#6666aa"
     },
-    "min_format": [
-      107,
-      1
-    ],
-    "max_format": 107
+    "min_format": 121,
+    "max_format": 121
   }
 }

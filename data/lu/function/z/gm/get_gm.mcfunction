@@ -1,0 +1,1 @@
+execute store result score @s lu.gm_new run function lu:z/gm/return_gm

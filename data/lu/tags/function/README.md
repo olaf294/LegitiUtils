@@ -27,3 +27,5 @@ Then, run the `/reload` command in-game.
     tellraw @a [{storage:"lu:online",nbt:"left.name"}," just left. Their ID is ",{storage:"lu:online",nbt:"left.id"},"."]
     ```
     Note: This function can fail to run if the player somehow doesn't have an ID.
+- `#lu:on_gamemode_switch`: Runs on a detected game mode switch. The current and previous game mode are stored in scores `lu.gm_new` and `lu.gm_old` as integers.
+    0 = Survival,  1 = Creative,  2 = Adventure,  3 = Spectator

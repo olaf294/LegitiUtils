@@ -1,6 +1,7 @@
 {
     "values": [
         "lu:tick",
+        "lu:http/tick",
         "lu:z/ld/tick"
     ]
 }

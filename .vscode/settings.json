@@ -1,11 +1,15 @@
 {
     "mc-dp-icons.loadFunctionNames": [
-        "tests/load"
+        "tests/load",
+        "http/load"
     ],
     "mc-dp-icons.crownedTickFunctionsNames": [
         "function/tick"
     ],
     "mc-dp-icons.crownedLoadFunctionsNames": [
         "function/load"
+    ],
+    "mc-dp-icons.tickFunctionNames": [
+        "http/tick"
     ]
 }
